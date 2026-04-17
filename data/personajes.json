@@ -1,0 +1,22 @@
+[
+    { "id": 1, "nombre": "Homero Simpson", "edad": 39, "ocupacion": "Seguridad en planta nuclear", "tipo": "principal" },
+    { "id": 2, "nombre": "Marge Simpson", "edad": 38, "ocupacion": "Ama de casa", "tipo": "principal" },
+    { "id": 3, "nombre": "Bart Simpson", "edad": 10, "ocupacion": "Estudiante", "tipo": "principal" },
+    { "id": 4, "nombre": "Lisa Simpson", "edad": 8, "ocupacion": "Estudiante", "tipo": "principal" },
+    { "id": 5, "nombre": "Maggie Simpson", "edad": 1, "ocupacion": "Bebé", "tipo": "principal" },
+    { "id": 6, "nombre": "Ned Flanders", "edad": 60, "ocupacion": "Dueño de tienda de artículos para zurdos", "tipo": "secundario" },
+    { "id": 7, "nombre": "Moe Szyslak", "edad": 55, "ocupacion": "Cantinero", "tipo": "secundario" },
+    { "id": 8, "nombre": "Sr. Burns", "edad": 104, "ocupacion": "Dueño de planta nuclear", "tipo": "villano" },
+    { "id": 9, "nombre": "Waylon Smithers", "edad": 45, "ocupacion": "Asistente del Sr. Burns", "tipo": "secundario" },
+    { "id": 10, "nombre": "Krusty el Payaso", "edad": 55, "ocupacion": "Payaso televisivo", "tipo": "secundario" },
+    { "id": 11, "nombre": "Apu Nahasapeemapetilon", "edad": 45, "ocupacion": "Dueño de Kwik-E-Mart", "tipo": "secundario" },
+    { "id": 12, "nombre": "Jefe Wiggum", "edad": 50, "ocupacion": "Jefe de policía", "tipo": "secundario" },
+    { "id": 13, "nombre": "Ralph Wiggum", "edad": 8, "ocupacion": "Estudiante", "tipo": "secundario" },
+    { "id": 14, "nombre": "Milhouse Van Houten", "edad": 10, "ocupacion": "Estudiante", "tipo": "secundario" },
+    { "id": 15, "nombre": "Profesor Frink", "edad": 48, "ocupacion": "Científico", "tipo": "secundario" },
+    { "id": 16, "nombre": "Troy McClure", "edad": 52, "ocupacion": "Actor", "tipo": "secundario" },
+    { "id": 17, "nombre": "Doctor Hibbert", "edad": 55, "ocupacion": "Médico", "tipo": "secundario" },
+    { "id": 18, "nombre": "Patty Bouvier", "edad": 40, "ocupacion": "Empleada de DMV", "tipo": "familiar" },
+    { "id": 19, "nombre": "Selma Bouvier", "edad": 40, "ocupacion": "Empleada de DMV", "tipo": "familiar" },
+    { "id": 20, "nombre": "Abraham Simpson", "edad": 83, "ocupacion": "Jubilado", "tipo": "familiar" }
+  ]
